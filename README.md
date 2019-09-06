@@ -22,18 +22,17 @@ _Technology used_
 - scikit-learn
 
 
-### **Sentiment Analysis on Student Feedback** - **[CMCC](https://www.cmcc.ca/)**
+### **Sentiment Analysis on Student Feedback** - **[GCP NLP API](https://cloud.google.com/natural-language)**
 
 Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class to gather feedback, extract trends among the responses and use the trends to improve the experience each year. This presents an ideal problem for Natural Language Processesing within the domain of Machine Learn to tackle as we have a dataset of open-text and the need to extract insights about it. 
 
-> "If I have seen further, it is by standing upon the shoulders of giants" -Sir Isaac Newton
-
-Machine learning is some complicated stuff! So why rebuild the wheel? For this project, I used [Google Cloud Platform's Natural Language Processing API](https://cloud.google.com/natural-language)
 
 
-### **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/)**
+### **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
 
-Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class to gather feedback, extract trends among the responses and use the trends to improve the experience each year. This presents an ideal problem for Natural Language Processesing within the domain of Machine Learn to tackle as we have a dataset of open-text and the need to extract insights about it. 
+Aligning the busy schedules
+
+
 
 ### **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
 
