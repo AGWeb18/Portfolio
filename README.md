@@ -3,7 +3,7 @@
 
 ### **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
 
-![FamerlyLogo](https://drive.google.com/file/d/1Lr5m7H03yilEwGnroWSE1Rw0-upGOtxj/view?usp=sharing "FamerlyLogo")
+![Famerly](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Famerly Logo")
 
 A passion project that involves the entire data pipeline, from writing a script to collect data, aggregating the collected data into meaningful insights and communicating the results effectively. 
 
