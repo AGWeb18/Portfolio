@@ -22,3 +22,4 @@ The amazing team at [360insights](https://360insights.com/) both widened, and de
 
 #### **Twitch Streamer Analytics**
 A passion project that involves the entire data pipeline, from writing a script to collect data, aggregating the collected data into meaningful insights and communicating the results effectively. 
+![FamerlyLogo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "FamerlyLogo")
