@@ -1,9 +1,15 @@
-## Welcome to ARidding's Data Science Portfolio
+## Anthony Ridding - Transforming Data into Action
 
-This site is built using [Jekyll](https://jekyllrb.com/) to 
-You can use the [editor on GitHub](https://github.com/AGWeb18/ARidding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
+I feel extremely grateful to be alive at this particular time and you should too. The digital explosion of data has created an abundance of data, which spell out the objective functioning of all organizations. There are new problem for businesses to tackle, new insights to gather and extracting the 'needles from the haystack' has become increasingly important.  
+
+
+### About Me
+It started off with an incredible internship working on the [Health Neighbourhoods Project of Durham Region in 2014](https://www.durham.ca/en/health-and-wellness/health-neighbourhoods.aspx) led by two amazing mentors and Epidemiologists, Mary-Anne Pietrusiak and Janet Phillips. 
+
+
+
 
 ### Markdown
 
