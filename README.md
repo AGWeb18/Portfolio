@@ -1,4 +1,3 @@
-## **Anthony Ridding - Transforming Data into Action**
 
 
 ## Introduction
