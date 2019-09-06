@@ -6,6 +6,7 @@
 
 A passion project that involves the entire data pipeline, from writing a script to collect data, aggregating the collected data into meaningful insights and communicating the results effectively. 
 
+#### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
 
 
