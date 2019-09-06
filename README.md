@@ -8,11 +8,31 @@ A passion project that involves the entire data pipeline, from writing a script 
 
 #### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
+> About 80 percent of adults experience low back pain at some point in their lifetimes. It is the most common cause of job-related disability and a leading contributor to missed work days. [-National Institute of Health](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Low-Back-Pain-Fact-Sheet)
+
+Utilizing technology to enhance the lives of people always has, and always be my life's mission. If we could produce a model which accurately predicts low back pain, then perhaps anatomical measurements could be examined more routinely as an indicator of back health.
+
 - [Low Back Pain Algorithm](https://www.kaggle.com/anfro18/lower-back-pain-algorithm) - 85% accuracy with Support Vector Machine
 
 _Technology used_
 - pandas
-- seaborn
 - numpy
+- seaborn
 - keras
 - scikit-learn
+
+
+#### **Sentiment Analysis on Student Feedback** - **[CMCC](https://www.cmcc.ca/)**
+
+Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class to gather feedback, extract trends among the responses and use the trends to improve the experience each year. This presents an ideal problem for Natural Language Processesing within the domain of Machine Learn to tackle as we have a dataset of open-text and the need to extract insights about it. 
+
+> "If I have seen further, it is by standing upon the shoulders of giants" -Sir Isaac Newton
+
+Machine learning is some complicated stuff! So why rebuild the wheel? For this project, I used [Google Cloud Platform's Natural Language Processing API](https://cloud.google.com/natural-language)
+
+
+#### **Custom Sign Up Tool** - **[PowerApps](https://powerapps.microsoft.com/en-us/)**
+
+
+#### **Dashboard Creation/Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
+
