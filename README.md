@@ -1,4 +1,4 @@
-## Anthony Ridding - Transforming Data into Action
+## **Anthony Ridding - Transforming Data into Action**
 
 
 ## Introduction
