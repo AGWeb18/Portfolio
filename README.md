@@ -1,3 +1,4 @@
+
 ## **Projects**
 
 ### **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
@@ -42,6 +43,8 @@ _Technology used_
 - natural language API
 - linux
 
+
+
 ### **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
 
 Aligning the busy schedules
@@ -50,6 +53,8 @@ _Technology used_
 - PowerApps
 - Sharepoint
 - PowerBI
+
+
 
 ### **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
 
