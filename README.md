@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to ARidding's Data Science Portfolio
 
+This site is built using [Jekyll](https://jekyllrb.com/) to 
 You can use the [editor on GitHub](https://github.com/AGWeb18/ARidding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
