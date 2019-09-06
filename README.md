@@ -1,12 +1,12 @@
 ## **Projects**
 
-#### **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
+### **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
 
 ![FamerlyLogo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "FamerlyLogo")
 
 A passion project that involves the entire data pipeline, from writing a script to collect data, aggregating the collected data into meaningful insights and communicating the results effectively. 
 
-#### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
+### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
 > About 80 percent of adults experience low back pain at some point in their lifetimes. It is the most common cause of job-related disability and a leading contributor to missed work days. [-National Institute of Health](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Low-Back-Pain-Fact-Sheet)
 
@@ -22,7 +22,7 @@ _Technology used_
 - scikit-learn
 
 
-#### **Sentiment Analysis on Student Feedback** - **[CMCC](https://www.cmcc.ca/)**
+### **Sentiment Analysis on Student Feedback** - **[CMCC](https://www.cmcc.ca/)**
 
 Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class to gather feedback, extract trends among the responses and use the trends to improve the experience each year. This presents an ideal problem for Natural Language Processesing within the domain of Machine Learn to tackle as we have a dataset of open-text and the need to extract insights about it. 
 
@@ -31,8 +31,11 @@ Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class
 Machine learning is some complicated stuff! So why rebuild the wheel? For this project, I used [Google Cloud Platform's Natural Language Processing API](https://cloud.google.com/natural-language)
 
 
-#### **Custom Sign Up Tool** - **[PowerApps](https://powerapps.microsoft.com/en-us/)**
+### **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/)**
 
+Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class to gather feedback, extract trends among the responses and use the trends to improve the experience each year. This presents an ideal problem for Natural Language Processesing within the domain of Machine Learn to tackle as we have a dataset of open-text and the need to extract insights about it. 
 
-#### **Dashboard Creation/Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
+### **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
+
+Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class to gather feedback, extract trends among the responses and use the trends to improve the experience each year. This presents an ideal problem for Natural Language Processesing within the domain of Machine Learn to tackle as we have a dataset of open-text and the need to extract insights about it. 
 
