@@ -8,3 +8,11 @@ A passion project that involves the entire data pipeline, from writing a script 
 
 #### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
+- [Low Back Pain Algorithm](https://www.kaggle.com/anfro18/lower-back-pain-algorithm) - 85% accuracy with Support Vector Machine
+
+_Technology used_
+- pandas
+- seaborn
+- numpy
+- keras
+- scikit-learn
