@@ -8,4 +8,3 @@ A passion project that involves the entire data pipeline, from writing a script 
 
 #### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
-[My Journey to Data Science](journey.md)
