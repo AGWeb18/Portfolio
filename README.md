@@ -14,9 +14,7 @@ It started off with an incredible internship working on the [Health Neighbourhoo
 
 
 #### 2.Solutions Consultant
-The amazing team at [360insights](https://360insights.com/) both widened, and deepened my proficiency in the business development, analysis and data wrangling skills. Working directly with the CFO and President, taught me the  
-
->> Durham Region has 50 Health Neighbourhoods. We present more than 80 indicators, by neighbourhood and municipality, to tell us about the demographics and health of our communities.
+The amazing team at [360insights](https://360insights.com/) both widened, and deepened my proficiency in the business development, analysis and data wrangling skills. Working directly with the CFO and President, taught me the fundamentals of leadership, executive communication and 'top-down' thinking. 
 
 
 
