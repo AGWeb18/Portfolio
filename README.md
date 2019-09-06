@@ -1,8 +1,6 @@
-
-
 ## **Projects**
 
-#### **Twitch Streamer Analytics** - **[Famerly](www.Famerly.com)**
+#### **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
 
 ![FamerlyLogo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "FamerlyLogo")
 
