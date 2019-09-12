@@ -44,17 +44,6 @@ _Technology used_
 
 
 
-### **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
-
-Aligning the busy schedules
-
-_Technology used_
-- PowerApps
-- Sharepoint
-- PowerBI
-
-
-
 ### **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
 
 Automated Benchmark. 
@@ -63,3 +52,12 @@ _Technology used_
 - Python
 - pandas
 - pygsheets
+
+### **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
+
+Aligning the busy schedules
+
+_Technology used_
+- PowerApps
+- Sharepoint
+- PowerBI
