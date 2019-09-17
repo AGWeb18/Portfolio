@@ -61,3 +61,9 @@ _Technology used_
 - PowerApps
 - Sharepoint
 - PowerBI
+
+### **Durham College - Data Analytic Tools** 
+
+- Database Installation + Usage
+- MySQL Server + Workbench Installation + Overview
+- pymysql - create_engine tutorial
