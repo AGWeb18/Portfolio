@@ -2,6 +2,7 @@
 ## **Projects**
 
 ### **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
+![python](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiL78CZlt3kAhVLheAKHRFmDLEQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.python.org%2F&psig=AOvVaw0KQAD-P3tr6tzMRGNHiJ6P&ust=1568992369785607 "Logo Title Text 1")
 
 
 A passion project that involves the entire data pipeline, from writing a script to collect data, aggregating the collected data into meaningful insights and communicating the results effectively. 
