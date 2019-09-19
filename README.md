@@ -4,8 +4,7 @@
 ### **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
 
 
-| <img src="https://www.python.org/static/img/python-logo.png" width="130">  | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="130" height="78"> | <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53d.png" width="130" height="78"> | <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="130" height="78"> |
-| ------------- | ------------- | ------------- | ------------- | 
+<img src="https://www.python.org/static/img/python-logo.png" width="130"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="130" height="78"> <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53d.png" width="130" height="78"> <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="130" height="78"> 
 
 
 
@@ -15,7 +14,7 @@ A passion project that involves the entire data pipeline, from writing a script 
 
 ### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
-<img src="https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width="130"> | <img src="https://matplotlib.org/_static/logo2.svg" width="130" height="78"> 
+ <img src="https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width="130"> | <img src="https://matplotlib.org/_static/logo2.svg" width="130" height="78"> 
  --- | ---
 
 
