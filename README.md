@@ -62,7 +62,7 @@ _Technology used_
 - Sharepoint
 - PowerBI
 
-### **Durham College - Data Analytic Tools** [create_engine Tutorial](https://AGWeb18.github.io/Portfolio/course.md)
+### **Durham College - Data Analytic Tools** [create_engine Tutorial]{% link Portfolio/course.md %}
 
 - Database Installation + Usage
 - MySQL Server + Workbench Installation + Overview
