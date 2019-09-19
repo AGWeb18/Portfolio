@@ -62,7 +62,7 @@ _Technology used_
 - Sharepoint
 - PowerBI
 
-### **Durham College - Data Analytic Tools** - [Course](/Portfolio/course.md)
+### **Durham College - Data Analytic Tools** - [Course](/course.md)
 
 - Database Installation + Usage
 - MySQL Server + Workbench Installation + Overview
