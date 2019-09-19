@@ -11,9 +11,9 @@ A passion project that involves the entire data pipeline, from writing a script 
 
 
 ### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png
-|<img src="https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width="130"> | <img src="https://matplotlib.org/_static/logo2.svg" width="130" height="78"> | <img src="https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width="130">  |
-| --- | --- | --- |
+
+|<img src="https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width="130"> | <img src="https://matplotlib.org/_static/logo2.svg" width="130" height="78"> |
+| --- | --- |
 
 > About 80 percent of adults experience low back pain at some point in their lifetimes. It is the most common cause of job-related disability and a leading contributor to missed work days. [-National Institute of Health](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Low-Back-Pain-Fact-Sheet)
 
