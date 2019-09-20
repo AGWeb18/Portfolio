@@ -4,7 +4,7 @@
 
 
 |<img src="https://www.python.org/static/img/python-logo.png" width="130"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="130" height="78"> <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53d.png" width="130" height="78"> <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="130" height="78"> |
-|:-:|
+|:---:|
 
 
 ----
