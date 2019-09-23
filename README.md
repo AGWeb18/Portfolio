@@ -4,11 +4,19 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="130" height="78"> <img src="https://www.python.org/static/img/python-logo.png" width="130">
 
+### Week 3
+- Database Overview, Installation and Loading 
+- MySQL Server + Workbench Installation
 
-- Database Installation + Usage
-- MySQL Server + Workbench Installation + Overview
+### Week 4
+- Install Python, Pandas, SQLAlchemy, PyMySQL
 - pymysql - create_engine tutorial
+- Run and Transform data pull to summarize data points.
+- **Assignment: Transform dataset** (instructions will be provided). 
 
+### Readings
+- How to [Install Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
+- [pymysql create_engine example](https://docs.sqlalchemy.org/en/13/core/engines.html#mysql)
 
 ---
 
