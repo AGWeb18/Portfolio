@@ -6,6 +6,7 @@ title: Data Analytic Tools for Business Decision Making
 # Interactive Lessons
 __Week 1:__ The overall objective of this class is to provide students with practical experience in handling the tools required in a Data Science project. One of the most common requirements of Data Scientists is that they have an understanding of `SQL` and relational databases. Understanding the difference between data types, how to provide 'permission' levels based on different users and to easily import any dataset into a SQL Table are all critical skills for a Data Scientist. Although databases are typically managed by a Database Analyst in the real-world, a Data Scientist will be intimately involved with the database and therefore, should be comfortable around them. 
 
+[![MySQL for Beginners](https://img.youtube.com/vi/e1LPfehYSgg/0.jpg)](https://www.youtube.com/watch?v=e1LPfehYSgg&list=PLS1QulWo1RIY4auvfxAHS9m_fZJ2wxSse "MySQL for beginners")
 
 --- 
 
