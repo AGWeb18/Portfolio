@@ -1,6 +1,6 @@
 ## **Projects**
 
-## **Data Analytic Tools for Business Decision Making** - **[Durham College Course](/course.md)**
+## **[Data Analytic Tools for Business Decision Making](/course.md)**
 
 <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="130" height="78"> <img src="https://www.python.org/static/img/python-logo.png" width="130">
 
