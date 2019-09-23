@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Data Science Portfolio
-description: Anthony Ridding - Transforming Data into Action
 baseurl: /Portfolio
 relative_links:
   enabled: true
