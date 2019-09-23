@@ -1,6 +1,9 @@
 ## **Projects**
 
-### **Durham College - Data Analytic Tools** - **[Course](/course.md)**
+## **Durham College - Data Analytic Tools** - **[Course](/course.md)**
+
+<img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="130" height="78"> <img src="https://www.python.org/static/img/python-logo.png" width="130">
+
 
 - Database Installation + Usage
 - MySQL Server + Workbench Installation + Overview
@@ -9,8 +12,9 @@
 
 ---
 
-### **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
+## **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
 
+<br>
 
 <img src="https://www.python.org/static/img/python-logo.png" width="130"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="130" height="78"> <img src="https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53d.png" width="130" height="78"> <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="130" height="78"> 
 
@@ -20,7 +24,7 @@ A passion project that involves the entire data pipeline, from writing a script 
 
 ---
 
-### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
+## **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
  <img src="https://miro.medium.com/max/400/1*mc5YIn7jvo5uwuqBOUDw7Q.jpeg" width="130"> <img src="https://matplotlib.org/_static/logo2.svg" width="130" height="78"> 
 
@@ -41,7 +45,7 @@ _Technology used_
 
 ---
 
-### **Sentiment Analysis on Student Feedback** - **[GCP NLP API](https://cloud.google.com/natural-language)**
+## **Sentiment Analysis on Student Feedback** - **[GCP NLP API](https://cloud.google.com/natural-language)**
 
 Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class to gather feedback, extract trends among the responses and use the trends to improve the experience each year. This presents an ideal problem for Natural Language Processesing within the domain of Machine Learn to tackle as we have a dataset of open-text and the need to extract insights about it. 
 
@@ -54,7 +58,7 @@ _Technology used_
 
 ---
 
-### **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
+## **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
 
 Automated Benchmark. 
 
@@ -65,7 +69,7 @@ _Technology used_
 
 ---
 
-### **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
+## **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
 
 Aligning the busy schedules
 
