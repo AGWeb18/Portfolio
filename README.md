@@ -1,6 +1,6 @@
 ## **Projects**
 
-## **Durham College - Data Analytic Tools** - **[Course](/course.md)**
+## **Durham College - Data Analytic Tools for Business Decision Making** - **[Course](/course.md)**
 
 <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" width="130" height="78"> <img src="https://www.python.org/static/img/python-logo.png" width="130">
 
@@ -15,9 +15,13 @@
 - **Assignment: Transform dataset** (instructions will be provided). 
 
 ### Readings
+#### Python
 - How to [Install Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
 - [pymysql create_engine example](https://docs.sqlalchemy.org/en/13/core/engines.html#mysql)
 
+#### R
+- [R Programming - Read CSV](http://rprogramming.net/read-csv-in-r/)
+- [Write Dataframe to MySQL](https://rdrr.io/cran/RSQLite/man/dbWriteTable.html)
 ---
 
 ## **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
