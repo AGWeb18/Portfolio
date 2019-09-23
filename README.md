@@ -1,5 +1,14 @@
 ## **Projects**
 
+### **Durham College - Data Analytic Tools** - **[Course](/course.md)**
+
+- Database Installation + Usage
+- MySQL Server + Workbench Installation + Overview
+- pymysql - create_engine tutorial
+
+
+---
+
 ### **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
 
 
@@ -8,6 +17,8 @@
 
 A passion project that involves the entire data pipeline, from writing a script to collect data, aggregating the collected data into meaningful insights and communicating the results effectively. 
 
+
+---
 
 ### **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
@@ -28,6 +39,7 @@ _Technology used_
 - keras
 - scikit-learn
 
+---
 
 ### **Sentiment Analysis on Student Feedback** - **[GCP NLP API](https://cloud.google.com/natural-language)**
 
@@ -40,6 +52,7 @@ _Technology used_
 - linux
 
 
+---
 
 ### **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
 
@@ -50,6 +63,8 @@ _Technology used_
 - pandas
 - pygsheets
 
+---
+
 ### **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
 
 Aligning the busy schedules
@@ -59,8 +74,3 @@ _Technology used_
 - Sharepoint
 - PowerBI
 
-### **Durham College - Data Analytic Tools** - **[Course](/course.md)**
-
-- Database Installation + Usage
-- MySQL Server + Workbench Installation + Overview
-- pymysql - create_engine tutorial
