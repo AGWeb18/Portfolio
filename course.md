@@ -56,8 +56,8 @@ The overall objective of this class is to provide students with practical experi
 
 ### Steps to Create a SCHEMA/TABLE
 1. Install [MySQL Server + Workbench](https://dev.mysql.com/downloads/installer/) 
-2. Create a SCHEMA *IMAGE GOES HERE*
-3. Create a TABLE  * Image goes here *
+2. Create a SCHEMA 
+3. Create a TABLE  
 4. Import data through Workbench
 --- 
 
