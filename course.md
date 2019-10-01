@@ -131,3 +131,31 @@ df = pd.read_sql(sql=sql_query,con=mydb)
 print(df)
 
 ```
+
+# Week 5
+
+## Walkthrough: Create a Store Database 
+In this assignment, you will have to create a database to sell items from your online store.
+It could be any items - Whether it's movies, video games or clothing. 
+- You need at least 8 items in your store. 
+- Each item needs at least 5 columns. Minimum of **`2 TEXT`** and **`2 NUMERIC`** and **`1 DATE`** field. 
+
+SQL Queries
+1. Build a `SELECT` statement that orders the results from oldest to newest. 
+2. Use a `GROUP BY` function to analyze your data. 
+3. Provide at least 2 aggregate functions (`SUM`,`COUNT`,`MAX`,`MIN`,`MEAN`..etc)
+
+
+### Step 1
+** Build the table**
+
+My table will have the following columns: 
+
+| Columns |
+|:-----|
+| id (INT Primary KEY ) |
+| name (TEXT) |
+| price (FLOAT) |
+| description (TEXT) |
+| rating (FLOAT) |
+| category (TEXT) |
