@@ -12,6 +12,25 @@ __Week 3:__ The overall objective of this class is to provide students with prac
 
 ### MySQL Data Type Cheat Sheet
 #### Numeric
+
+<table style="width:100%">
+  <tr>
+    <th>Data Type</th>
+    <th>Definition</th>
+  </tr>
+  <tr>
+    <td>TINYINT</td>
+    <td>A very small integer</td>
+  </tr>
+  <tr>
+    <td>SMALLINT</td>
+    <td>A small integer</td>
+  </tr>
+</table>
+
+
+
+
 | Data Type  | Definition |  
 | ----- | ----- |
 | TINYINT  | A very small integer |
