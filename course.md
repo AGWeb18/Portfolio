@@ -79,6 +79,8 @@ The snippet below covers the steps involved to create an engine. The engine is w
 
 We will walk through some practical examples: 
 
+### Template
+
 ```python
 import pymysql
 from sqlalchemy import create_engine
@@ -90,4 +92,42 @@ port = 3306
 database = 'dataBaseName'
 
 mydb = create_engine('mysql+pymysql://' + user + ':' + passw + '@' + host + ':' + str(port) + '/' + database , echo=False)
+```
+
+### Real Use
+
+```python
+
+# Import the required libraries
+import pandas as pd
+import pymysql
+from sqlalchemy import create_engine
+import json
+
+# Read JSON creds file
+with open('creds.json', 'r') as myfile:
+    data=myfile.read()
+
+# Load the JSON for easy extraction
+my_creds = json.loads(data)
+
+# Accessing the credentials from JSON
+user = my_creds["db"]["username"]
+database = my_creds["db"]["dbname"]
+passw = my_creds["db"]["pwrd"]
+host = my_creds["db"]["host"]
+port = my_creds["db"]["port"]
+
+# Create engine to connect to the DB.  
+mydb = create_engine('mysql+pymysql://' + user + ':' + passw + '@' + host + ':' + str(port) + '/' + database , echo=False)
+
+# Write query to pull data from DB. 
+sql_query = 'SELECT * FROM heart_disease_schema.heart_disease_table;'
+
+# Run the query, use the engine as a connection
+df = pd.read_sql(sql=sql_query,con=mydb)
+
+# Print the results
+print(df)
+
 ```
