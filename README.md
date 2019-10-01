@@ -2,6 +2,24 @@
 
 ## **[Data Analytic Tools for Business Decision Making](/course.md)**
 
+#### Week 3: 
+- Install/Setup MySQL Database locally. Upload content. 
+
+#### Week 4:
+- Discuss Python(pandas) and SQL integration. Why SQL vs Pandas? 
+
+#### Week 5:
+- Transformation activity with SQL
+
+### Readings
+#### Python
+- How to [Install Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
+- [pymysql create_engine example](https://docs.sqlalchemy.org/en/13/core/engines.html#mysql)
+
+#### R
+- [R Programming - Read CSV](http://rprogramming.net/read-csv-in-r/)
+- [Write Dataframe to MySQL](https://rdrr.io/cran/RSQLite/man/dbWriteTable.html)
+
 
 ---
 
