@@ -1,25 +1,8 @@
 ## **Projects**
 
 ## **[Data Analytic Tools for Business Decision Making](/course.md)**
-<br>
-### Week 3
-- Database Overview, Installation and Loading 
-- MySQL Server + Workbench Installation
 
-### Week 4
-- Install Python, Pandas, SQLAlchemy, PyMySQL
-- pymysql - create_engine tutorial
-- Run and Transform data pull to summarize data points.
-- **Assignment: Transform dataset** (instructions will be provided). 
 
-### Readings
-#### Python
-- How to [Install Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
-- [pymysql create_engine example](https://docs.sqlalchemy.org/en/13/core/engines.html#mysql)
-
-#### R
-- [R Programming - Read CSV](http://rprogramming.net/read-csv-in-r/)
-- [Write Dataframe to MySQL](https://rdrr.io/cran/RSQLite/man/dbWriteTable.html)
 ---
 
 ## **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
