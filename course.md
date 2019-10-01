@@ -147,15 +147,29 @@ SQL Queries
 
 
 ### Step 1
-** Build the table**
 
-My table will have the following columns: 
+**Build the table**
 
-| Columns |
-|:-----|
-| id (INT Primary KEY ) |
-| name (TEXT) |
-| price (FLOAT) |
-| description (TEXT) |
-| rating (FLOAT) |
-| category (TEXT) |
+You can build the table either through MySQL Workbench, or from a query - similar to the one below. 
+
+```SQL
+CREATE  TABLE table_name (
+  `col_1` INT  AUTOINCREMENT ,
+  `col_2` VARCHAR(150) NOT NULL ,
+  `col_3` VARCHAR(6) ,
+  `col_4` DATE ,
+  `col_5` VARCHAR(255) ,
+  `col_6` VARCHAR(255) ,
+  PRIMARY KEY (`col_1`) )
+ENGINE = InnoDB;
+```
+### Step 2
+
+**Insert your data**
+
+If you do not have a CSV ready with data, you can manually import data into your table with a query like the one below
+
+```SQL
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+```
