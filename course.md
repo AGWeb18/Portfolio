@@ -12,6 +12,14 @@ The overall objective of this class is to provide students with practical experi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e1LPfehYSgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Steps to Create a SCHEMA/TABLE
+
+1. Install [MySQL Server + Workbench](https://dev.mysql.com/downloads/installer/) 
+2. Create a SCHEMA 
+3. Create a TABLE  
+4. Import data through Workbench
+
+
 ### MySQL Data Type Cheat Sheet
 #### Numeric
 
@@ -54,12 +62,7 @@ The overall objective of this class is to provide students with practical experi
 | BOOL/TINYINT  | MySQL does not have BOOL or BOOLEAN built-in, TINYINT(1) is used.  |
 
 
-### Steps to Create a SCHEMA/TABLE
 
-1. Install [MySQL Server + Workbench](https://dev.mysql.com/downloads/installer/) 
-2. Create a SCHEMA 
-3. Create a TABLE  
-4. Import data through Workbench
 
 --- 
 
