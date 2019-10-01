@@ -12,17 +12,17 @@ __Week 3:__ The overall objective of this class is to provide students with prac
 
 ### MySQL Data Type Cheat Sheet
 #### Numeric
- Data Type  | Definition  
------ | -----
- TINYINT  | A very small integer 
- SMALLINT  | A small integer  
-MEDIUMINT  | A medium-sized integer  
- INT  | A standard integer  
- BIGINT  | A large integer  
- DECIMAL  | A fixed-point number  
- FLOAT  | A number with decimals, single precision  
- DOUBLE  | A number with decimals, double precision  
- BIT  | A bit field  
+| Data Type  | Definition |  
+| ----- | ----- |
+| TINYINT  | A very small integer |
+| SMALLINT  | A small integer |
+| MEDIUMINT  | A medium-sized integer |
+| INT  | A standard integer |
+| BIGINT  | A large integer |
+| DECIMAL  | A fixed-point number |
+| FLOAT  | A number with decimals, single precision |
+| DOUBLE  | A number with decimals, double precision |
+| BIT  | A bit field |
  
  
 #### String
