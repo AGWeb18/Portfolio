@@ -14,7 +14,7 @@ __Week 3:__ The overall objective of this class is to provide students with prac
 #### Numeric
 
 | Data Type  | Definition |  
-| ----- | ----- |
+| ------- | ------- |
 | TINYINT  | A very small integer |
 | SMALLINT  | A small integer |
 | MEDIUMINT  | A medium-sized integer |
