@@ -2,14 +2,18 @@
 
 ## **[Data Analytic Tools for Business Decision Making](/course.md)**
 
-#### Week 3: 
-- Install/Setup MySQL Database locally. Upload content. 
+### Prerequisites for this course
+- Experience working with data
+- A drive to learn
+- Not required to know SQL, Python or R
 
-#### Week 4:
-- Discuss Python(pandas) and SQL integration. Why SQL vs Pandas? 
+### Course Overview week by week
+- Module 1 - Data Storage
+- Module 2 - Data Transformation
+- Module 3 - Data Aggregation
+- Module 4 - Data Visualization
+- Module 5 - Performance Optimizations
 
-#### Week 5:
-- Transformation activity with SQL
 
 ### Readings
 #### Python
@@ -21,15 +25,23 @@
 - [Write Dataframe to MySQL](https://rdrr.io/cran/RSQLite/man/dbWriteTable.html)
 
 
+_Technology used_
+- MySQL Server, MySQL Workbench
+- SQL, Python (pandas, SQLAlchemy, pymysql)
+- Database Administration Strategies
+
+
 ---
 
 ## **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
 
-<br>
+A passion project that involves scheduled data extraction through an API request, retreiving and analyzing collected data and presenting the results in an easy-to-consume format. 
 
 
-A passion project that involves the entire data pipeline, from writing a script to collect data, aggregating the collected data into meaningful insights and communicating the results effectively. 
-
+_Technology Used_
+- AWS RDS & EC2 Server
+- Python/pandas/SQL stack
+- Modules: requests, json, twitch-python-client
 
 ---
 
@@ -44,12 +56,10 @@ Utilizing technology to enhance the lives of people always has, and always be my
 - [Low Back Pain Algorithm](https://www.kaggle.com/anfro18/lower-back-pain-algorithm) - 85% accuracy with Support Vector Machine
 
 _Technology used_
-- Python
-- pandas
-- numpy
-- seaborn
-- keras
-- scikit-learn
+- Language: Python
+- Data Transformation: pandas, numpy
+- Machine Learning: keras, scikit-learn
+- Visualization: seaborn
 
 ---
 
@@ -61,9 +71,7 @@ _Technology used_
 - Python 
 - pandas
 - natural language API
-- linux
-
-
+- Google Cloud
 ---
 
 ## **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
@@ -71,9 +79,9 @@ _Technology used_
 Automated Benchmark. 
 
 _Technology used_
+- Medical Records
 - Python
-- pandas
-- pygsheets
+- Modules: pandas, pygsheets
 
 ---
 
@@ -82,6 +90,7 @@ _Technology used_
 Aligning the busy schedules
 
 _Technology used_
-- PowerApps
-- Sharepoint
-- PowerBI
+- Microsoft PowerApps
+- Microsoft Sharepoint
+- Microsoft PowerBI
+- Microsoft Flow
