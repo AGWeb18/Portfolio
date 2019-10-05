@@ -1,3 +1,7 @@
+---
+description: Portfolio of Data Science Projects by Anthony Ridding
+---
+
 ## **Projects**
 
 ## **[Data Analytic Tools for Business Decision Making](/course.md)**
