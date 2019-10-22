@@ -14,7 +14,7 @@ description: Portfolio of Data Science Projects by Anthony Ridding
 ### Course Overview week by week
 - [Module 1 - Overview of Data Analytic Problems](/course_content/module_1.md) 
 - [Module 2 - Extract: Data types, Databases and importing data.](/course_content/module_2.md) 
-- Module 3 - Transformation: SQL Practice: Case When, Group By
+- [Module 3 - Transformation: SQL Practice: Case When, Group By](/course_content/module_3.md)
 - Module 4 - Transofmration: SQL Interactive Class 
 - Module 5 - Aggregation: SQL Jobs, SQL Views, Order of Operations - Assignment #2
 - Module 6 - Aggregation: Introduction to Python, Data types, pandas
