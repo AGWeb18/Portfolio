@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
 title: Data Science Portfolio
 baseurl: /Portfolio
+relative_links:
+  enabled: true
+  collections: true
 include:
   - README.md
   - course.md
