@@ -7,3 +7,6 @@ relative_links:
 include:
   - README.md
   - course.md
+  - /course_content/module_1.md
+  - /course_content/module_2.md
+  - /course_content/module_3.md
