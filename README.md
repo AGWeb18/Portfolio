@@ -12,11 +12,14 @@ description: Portfolio of Data Science Projects by Anthony Ridding
 - Not required to know SQL, Python or R
 
 ### Course Overview week by week
-- Module 1 - Data Storage
-- Module 2 - Data Transformation
-- Module 3 - Data Aggregation
-- Module 4 - Data Visualization
-- Module 5 - Performance Optimizations
+- Module 1 - Overview of Data Analytic Problems 
+- Module 2 - Extract: Data types, Databases and importing data. 
+- Module 3 - Transformation: SQL Practice: Case When, Group By
+- Module 4 - Transofmration: SQL Interactive Class 
+- Module 5 - Aggregation: SQL Jobs, SQL Views, Order of Operations - Assignment #2
+- Module 6 - Aggregation: Introduction to Python, Data types, pandas
+- Module 7 - Aggregation: Pandas common functions. 
+- Module 8 - Performance Optimizations - Loops, functions
 
 
 ### Readings
@@ -30,8 +33,9 @@ description: Portfolio of Data Science Projects by Anthony Ridding
 
 
 _Technology used_
-- MySQL Server, MySQL Workbench
 - SQL, Python (pandas, SQLAlchemy, pymysql)
+- Pandas group-by,
+- MySQL Server, MySQL Workbench
 - Database Administration Strategies
 
 
