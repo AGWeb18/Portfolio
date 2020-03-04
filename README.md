@@ -1,4 +1,15 @@
-## **Projects**
+## **NAME**
+
+#### Data Scientist 
+
+##  Experience
+_Technology used_
+- SQL, Python (pandas, SQLAlchemy, pymysql)
+- Pandas group-by,
+- MySQL Server, MySQL Workbench
+- Database Administration Strategies
+
+
 
 ## **[Data Analytic Tools for Business Decision Making](/course.md)**
 
