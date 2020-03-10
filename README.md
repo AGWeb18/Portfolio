@@ -1,15 +1,7 @@
 ## **Anthony Ridding**
-
 #### Data Scientist 
 
 ##  Experience
-_Technology used_
-- SQL, Python (pandas, SQLAlchemy, pymysql)
-- Pandas group-by,
-- MySQL Server, MySQL Workbench
-- Database Administration Strategies
-
-
 
 ## **[Data Analytic Tools for Business Decision Making](/course.md)**
 
@@ -59,7 +51,6 @@ _Technology Used_
 - Modules: requests, json, twitch-python-client
 
 ---
-
 ## **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
 
