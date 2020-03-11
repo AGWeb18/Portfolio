@@ -1,6 +1,3 @@
-## **Anthony Ridding**
-#### Data Scientist 
-
 ##  Experience
 
 ## **[Data Analytic Tools for Business Decision Making](/course.md)**
@@ -51,6 +48,7 @@ _Technology Used_
 - Modules: requests, json, twitch-python-client
 
 ---
+
 ## **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
 
@@ -78,6 +76,7 @@ _Technology used_
 - pandas
 - natural language API
 - Google Cloud
+
 ---
 
 ## **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
