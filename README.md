@@ -1,8 +1,14 @@
 ##  Experience
 
-- **[Data Analytic Tools for Business Decision Making](/course.md)**
+Below is a list of projects that showcase some of tools I commonly use. 
 
-### Prerequisites for this course
+---
+
+**Instructor for: [Data Analytic Tools for Business Decision Making](/course.md)**
+
+This course focuses on the practical implementation of the ETL process from end-to-end. We cover topics such as data types, set up a local database and extract insights from raw data.
+
+*Prerequisites for this course*
 - Experience working with data
 - A drive to learn
 - Not required to know SQL, Python or R
@@ -16,11 +22,21 @@
 
 ---
 
+## **CMCC - COVID-19 Impact Dashboard**
 
-## **Building real-time Dashboards** - **[PowerBI](https://powerbi.microsoft.com/en-us/)**
+A collaborative effort between Human Resources, Student Services, the Incident command team and myself to build a real-time dashboard of the impacts of COVID-19 across the institution. This helps manage all reported cases and acts as a single view into how the institution is doing. 
+
+_Technology Used_
+- Input: Microsoft Forms
+- Logic Layer: Power Automate
+- Output: Power BI
+
+---
 
 
-Automated Benchmark. 
+## **Clinical Activity Dashboard** - **[PowerBI](https://powerbi.microsoft.com/en-us/)**
+
+One of the tools I am most proud of building is the Clinical Activity Dashboard. This dashboard informs the Clinic Management Team of all the experiences across their 7 clinic system. This information is useful for numerous purposes whether it be for managing student experiences or reporting how well a specific clinic is doing to the board. 
 
 _Technology used_
 - SQL Server Management Studio, T-SQL
@@ -31,15 +47,14 @@ _Technology used_
 ---
 
 
-## **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
+## **PPE Inventory App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
 
-Aligning the busy schedules
+A tool used to view current inventory, order more supplies and report the history of each PPE item through a PowerApp embedded in Teams.
 
 _Technology used_
-- Microsoft PowerApps
+- Microsoft PowerApps integration with Teams
 - Microsoft Sharepoint
 - Microsoft PowerBI
-- Microsoft Flow
 
 
 ---
