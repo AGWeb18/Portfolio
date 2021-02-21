@@ -1,53 +1,87 @@
 ##  Experience
 
-## **[Data Analytic Tools for Business Decision Making](/course.md)**
+Below is a list of projects that showcase some of tools I commonly use. 
 
-### Prerequisites for this course
-- Experience working with data
-- A drive to learn
-- Not required to know SQL, Python or R
+---
 
-### Course Overview week by week
-- [Module 1 - Overview of Data Analytic Problems](/course_content/module_1.md) 
-- [Module 2 - Extract: Data types, Databases and importing data.](/course_content/module_2.md) 
-- [Module 3 - Transformation: SQL Practice: Case When, Group By](/course_content/module_3.md)
-- Module 4 - Transofmration: SQL Interactive Class 
-- Module 5 - Aggregation: SQL Jobs, SQL Views, Order of Operations - Assignment #2
-- Module 6 - Aggregation: Introduction to Python, Data types, pandas
-- Module 7 - Aggregation: Pandas common functions. 
-- Module 8 - Performance Optimizations - Loops, functions
+**Instructor for: [Data Analytic Tools for Business Decision Making](/course.md)**
+
+This course focuses on the practical implementation of the ETL process from end-to-end. We cover topics such as data types, set up a local database and extract insights from raw data.
 
 
-### Readings
-#### Python
-- How to [Install Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
-- [pymysql create_engine example](https://docs.sqlalchemy.org/en/13/core/engines.html#mysql)
-
-#### R
-- [R Programming - Read CSV](http://rprogramming.net/read-csv-in-r/)
-- [Write Dataframe to MySQL](https://rdrr.io/cran/RSQLite/man/dbWriteTable.html)
-
-
-_Technology used_
+*Technology Covered*
 - SQL, Python (pandas, SQLAlchemy, pymysql)
-- Pandas group-by,
 - MySQL Server, MySQL Workbench
-- Database Administration Strategies
+- Visualization Tools (Power BI)
 
 
 ---
 
+## **CMCC - COVID-19 Impact Dashboard**
+
+A collaborative effort between Human Resources, Student Services, the Incident command team and myself to build a real-time dashboard of the impacts of COVID-19 across the institution. This helps manage all reported cases and acts as a single view into how the institution is doing. 
+
+_Technology Used_
+- Input: Microsoft Forms
+- Logic Layer: Power Automate
+- Output: Power BI
+
+---
+
+
+## **Clinical Activity Dashboard** - **[PowerBI](https://powerbi.microsoft.com/en-us/)**
+
+One of the tools I am most proud of building is the Clinical Activity Dashboard. This dashboard informs the Clinic Management Team of all the experiences across their 7 clinic system. This information is useful for numerous purposes whether it be for managing student experiences or reporting how well a specific clinic is doing to the board. 
+
+_Technology used_
+- SQL Server Management Studio, T-SQL
+- Python
+- pandas, pygsheets
+
+
+---
+
+
+## **PPE Inventory App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
+
+A tool used to view current inventory, order more supplies and report the history of each PPE item through a PowerApp embedded in Teams.
+
+_Technology used_
+- Microsoft PowerApps integration with Teams
+- Microsoft Sharepoint
+- Microsoft PowerBI
+
+
+---
+
+
 ## **Twitch Streamer Analytics** - **[Famerly](https://www.famerly.com/)**
 
-A passion project that involves scheduled data extraction through an API request, retreiving and analyzing collected data and presenting the results in an easy-to-consume format. 
+A passion project that involves a scheduled data extraction from an API, retreiving and analyzing collected data and presenting the results in an easy-to-consume visualization. 
 
 
 _Technology Used_
 - AWS RDS & EC2 Server
 - Python/pandas/SQL stack
-- Modules: requests, json, twitch-python-client
+- Cloud server management
+
 
 ---
+
+
+## **Sentiment Analysis on Student Feedback** - **[GCP NLP API](https://cloud.google.com/natural-language)**
+
+Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class to gather feedback, extract trends among the responses and use the trends to improve the experience each year. This presents an ideal problem for Natural Language Processesing within the domain of Machine Learn to tackle as we have a dataset of open-text and the need to extract insights about it. 
+
+_Technology used_
+- Python 
+- pandas
+- natural language API
+- Google Cloud
+
+
+---
+
 
 ## **Kaggle Competitions/Machine Learning** - **[Kaggle](https://www.Kaggle.com/)**
 
@@ -65,37 +99,4 @@ _Technology used_
 - Machine Learning: keras, scikit-learn
 - Visualization: seaborn
 
----
 
-## **Sentiment Analysis on Student Feedback** - **[GCP NLP API](https://cloud.google.com/natural-language)**
-
-Every year, CMCC sends out an anonymous 'Exit Interview' to the graduating class to gather feedback, extract trends among the responses and use the trends to improve the experience each year. This presents an ideal problem for Natural Language Processesing within the domain of Machine Learn to tackle as we have a dataset of open-text and the need to extract insights about it. 
-
-_Technology used_
-- Python 
-- pandas
-- natural language API
-- Google Cloud
-
----
-
-## **Dashboard Automation** - **[Google Data Studio](https://datastudio.google.com/u/0/navigation/reporting) | [PowerBI](https://powerbi.microsoft.com/en-us/)**
-
-Automated Benchmark. 
-
-_Technology used_
-- Medical Records
-- Python
-- Modules: pandas, pygsheets
-
----
-
-## **Custom Sign Up App** - **[PowerApps](https://powerapps.microsoft.com/en-us/) | [Sharepoint](https://products.office.com/en-us/sharepoint/collaboration)**
-
-Aligning the busy schedules
-
-_Technology used_
-- Microsoft PowerApps
-- Microsoft Sharepoint
-- Microsoft PowerBI
-- Microsoft Flow
