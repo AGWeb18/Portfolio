@@ -8,11 +8,6 @@ Below is a list of projects that showcase some of tools I commonly use.
 
 This course focuses on the practical implementation of the ETL process from end-to-end. We cover topics such as data types, set up a local database and extract insights from raw data.
 
-*Prerequisites for this course*
-- Experience working with data
-- A drive to learn
-- Not required to know SQL, Python or R
-
 
 *Technology Covered*
 - SQL, Python (pandas, SQLAlchemy, pymysql)
