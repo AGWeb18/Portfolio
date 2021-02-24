@@ -42,7 +42,7 @@ _Technology used_
 ---
 
 
-## **PPE Inventory App** 
+## **CMCC - PPE Inventory App** 
 
 A tool used to view current inventory, order more supplies and report the history of each PPE item through a PowerApp embedded in Teams.
 
