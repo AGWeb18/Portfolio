@@ -30,7 +30,7 @@ _Technology Used_
 ---
 
 
-## **Clinical Activity Dashboard | CMCC ** 
+## **Clinical Activity Dashboard | CMCC** 
 
 This dashboard informs the Clinic Management Team of all the experiences across their 7 clinic system. This information is useful for numerous purposes whether it be for managing student experiences or reporting to the board or supporting clinical success. 
 
