@@ -18,7 +18,7 @@ This course focuses on the practical implementation of the ETL process from end-
 
 ---
 
-## **Canadian Memorial Chiropractic College(CMCC) - COVID-19 Impact Dashboard**
+## **COVID-19 Impact Dashboard | Canadian Memorial Chiropractic College(CMCC)**
 
 A collaborative effort between Human Resources, Student Services, the Incident command team and myself to build a real-time dashboard of the impacts of COVID-19 across the institution. This helps manage all reported cases and acts as a single view into how the institution is doing. 
 
@@ -30,7 +30,7 @@ _Technology Used_
 ---
 
 
-## **CMCC - Clinical Activity Dashboard** 
+## **Clinical Activity Dashboard | CMCC ** 
 
 This dashboard informs the Clinic Management Team of all the experiences across their 7 clinic system. This information is useful for numerous purposes whether it be for managing student experiences or reporting to the board or supporting clinical success. 
 
@@ -43,7 +43,7 @@ _Technology used_
 ---
 
 
-## **CMCC - PPE Inventory App** 
+## **PPE Inventory App | CMCC** 
 
 A tool used to view current inventory, order more supplies and report the history of each PPE item through a PowerApp embedded in Teams.
 
