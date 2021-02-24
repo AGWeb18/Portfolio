@@ -4,7 +4,7 @@ Below is a list of projects that showcase some of tools I commonly use.
 
 ---
 
-| Project | Description | Technology Used |
+| Project | <div style="width:100px">Description</div>  | Technology Used |
 |-|-|-|
 | Instructor \| Durham College | Course focused on the practical implementation of the ETL process from end-to-end. We cover topics such as data types, set up a local database and extract insights from raw data. | *Technology Covered* <br><li>SQL, Python (pandas, SQLAlchemy, pymysql) <br><li>MySQL Server, MySQL Workbench <br><li>Visualization Tools (Power BI) |
 | COVID-19 Impact Dashboard \| Canadian Memorial Chiropractic College | A collaborative effort between Human Resources, Student Services, the Incident command team and myself to build a real-time dashboard of the impacts of COVID-19 across the institution. This helps manage all reported cases and acts as a single view into how COVID is impacting the institution.  | *Technology Used* <br><li>Input: Microsoft Forms <br><li>Logic Layer: Power Automate <br><li>Output: Power BI |
