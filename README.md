@@ -1,7 +1,7 @@
 
 ##  Experience
 
-Below is a list of projects that showcase some of tools I commonly use. 
+Below is a list of projects that showcase some of that I have built or contributed to. 
 
 ---
 
