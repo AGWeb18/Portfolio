@@ -16,7 +16,7 @@ Managing job sites around North America requires organization and coordination. 
 
 ---
 
-## **Instructor for: [Data Analytic Tools for Business Decision Making](/course.md)**
+## **Part-Time Instructor | [Data Analytic Tools for Business Decision Making](https://durhamcollege.ca/academic-schools/centre-for-professional-and-part-time-learning/programs-and-courses/courses/course?subj=DATA&crse=2283&camp=J)**
 
 This course focuses on the practical implementation of the ETL process from end-to-end. We cover topics such as data types, how to set up a local database, data transformations/aggregations and best practices in Data Storage.
 
@@ -29,7 +29,7 @@ This course focuses on the practical implementation of the ETL process from end-
 
 ---
 
-## **COVID-19 Impact Dashboard | Canadian Memorial Chiropractic College(CMCC)**
+## **COVID-19 Impact Dashboard | [Canadian Memorial Chiropractic College (CMCC)](https://www.cmcc.ca)**
 
 This reporting mechanics helps manage all reported cases, split between Employees, Students and Faculty and acts as a single view into how the institution is doing. 
 
