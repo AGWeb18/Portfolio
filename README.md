@@ -1,7 +1,7 @@
 
 ##  Experience
 
-Below is a list of projects that showcase some of that I have built or contributed to. 
+Below is a list of projects that I have built or contributed to. 
 
 ---
 
@@ -18,7 +18,7 @@ Managing job sites around North America requires organization and coordination. 
 
 ## **Instructor for: [Data Analytic Tools for Business Decision Making](/course.md)**
 
-This course focuses on the practical implementation of the ETL process from end-to-end. We cover topics such as data types, set up a local database and extract insights from raw data.
+This course focuses on the practical implementation of the ETL process from end-to-end. We cover topics such as data types, how to set up a local database, data transformations/aggregations and best practices in Data Storage.
 
 
 *Technology Covered*
@@ -31,7 +31,7 @@ This course focuses on the practical implementation of the ETL process from end-
 
 ## **COVID-19 Impact Dashboard | Canadian Memorial Chiropractic College(CMCC)**
 
-A collaborative effort between Human Resources, Student Services, the Incident command team and myself to build a real-time dashboard of the impacts of COVID-19 across the institution. This helps manage all reported cases and acts as a single view into how the institution is doing. 
+This reporting mechanics helps manage all reported cases, split between Employees, Students and Faculty and acts as a single view into how the institution is doing. 
 
 _Technology Used_
 - Input: Microsoft Forms
