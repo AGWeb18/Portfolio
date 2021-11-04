@@ -10,7 +10,9 @@ It was here that I learned the basics of programming through **[Excel VBA](https
 
 
 #### **Solutions Consultant / Business Analyst**
-The amazing team at [360insights](https://360insights.com/) both widened, and deepened my proficiency in business analysis and data wrangling skills. Working directly with the CFO and President, taught me the fundamentals of leadership, executive communication and 'top-down' thinking.
+The amazing team at [360insights](https://360insights.com/) both widened, and deepened my proficiency in business analysis and data wrangling skills. I was able to work with companies such as Sony, Yokohama Tires, Motorolla and other brands to produce custom reports based on the campaign that was being delivered. It was also around this time (2017) that I started learning python. I would take reports that I could perform using Excel, and I would challenge myself to use python to generate them. 
 
 
 
+#### **Business Intelligence Analyst**
+After spending 3 years at 360insights, I was very grateful for the lessons and connections but I was ready for a new challenge. I wanted to connect the advances of data and technology with applications in the Health Care industry, so the role at CMCC was the perfect next step. Building solutions using the Electronic Medical Records was both fun and challenging. The unstructured nature made data wrangling challenging, but there were certain fields which were useful and I was able to build value from. 
