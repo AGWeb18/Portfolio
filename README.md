@@ -1,11 +1,11 @@
 
-##  Experience
+#  A Glimpse Into My Journey
 
 Below is a list of projects that I have built or contributed to. 
 
 ---
 
-## **Site Labour Metrics | North American Construction**
+## **Site Labour Forecasting Tool | North American Construction**
 
 Managing job sites around North America requires organization and coordination. At NAC, I contributed to a digital pipeline that allows users on-site to enter relevant data and have a dashboard update dynamically. 
 
