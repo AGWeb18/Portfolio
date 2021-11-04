@@ -14,6 +14,9 @@ Managing job sites around North America requires organization and coordination. 
 - Advanced Power Apps and Power BI usage. 
 - Python scripting for automation tasks. 
 
+![SQL logo](/assets/sql-icon.jpeg)
+
+
 ---
 
 ## **Instructor for: [Data Analytic Tools for Business Decision Making](/course.md)**
