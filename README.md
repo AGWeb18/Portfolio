@@ -5,7 +5,18 @@ Below is a list of projects that showcase some of tools I commonly use.
 
 ---
 
-**Instructor for: [Data Analytic Tools for Business Decision Making](/course.md)**
+## **Site Labour Metrics | North American Construction**
+
+Managing job sites around North America requires organization and coordination. At NAC, I contributed to a digital pipeline that allows users on-site to enter relevant data and have a dashboard update dynamically. 
+
+*Technology Covered*
+- Automated SQL ETL jobs that generates a staging table
+- Advanced Power Apps and Power BI usage. 
+- Python scripting for automation tasks. 
+
+---
+
+## **Instructor for: [Data Analytic Tools for Business Decision Making](/course.md)**
 
 This course focuses on the practical implementation of the ETL process from end-to-end. We cover topics such as data types, set up a local database and extract insights from raw data.
 
