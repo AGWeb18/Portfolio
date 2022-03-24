@@ -13,7 +13,7 @@ Managing job sites around North America requires organization and coordination. 
 - Automated SQL ETL jobs that generates a staging table
 - Advanced Power Apps and Power BI usage. 
 - Python scripting for automation tasks. 
-  - Examples: [Balance Sheet Report]()
+  - Examples: [Balance Sheet Report](https://github.com/AGWeb18/BusinessIntel/blob/32bdc2a975d61471eb47d92b2cb9b5420a0f7dd6/financial/qry_balanceSheet.py)
 
 ---
 
@@ -98,6 +98,12 @@ _Technology used_
 
 # Business Intelligence
 Scripts to automate error-prone tasks and optimize data processing. These scripts are useful to ensure no human-errors occur on simple, recurring tasks. 
+
+##  [Balance Sheet](https://github.com/AGWeb18/BusinessIntel/blob/32bdc2a975d61471eb47d92b2cb9b5420a0f7dd6/financial/qry_balanceSheet.py)
+- Current: ERP system provides robust but stable reporting solution
+- Need: To be able to customize the reporting, and extend functionality. 
+- Solution: "Tie in" to the same Data Mart as the Jonas Construction DM, and reproduce with Python. 
+  - Allows for full customizability. 
 
 ## [Workbook](https://github.com/AGWeb18/BusinessIntel/tree/master/workbook)
 - Instead of asking each student to submit their clinical metrics monthly, why not extract them directly?
