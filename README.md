@@ -13,6 +13,7 @@ Managing job sites around North America requires organization and coordination. 
 - Automated SQL ETL jobs that generates a staging table
 - Advanced Power Apps and Power BI usage. 
 - Python scripting for automation tasks. 
+  - Examples: [Balance Sheet Report]()
 
 ---
 
