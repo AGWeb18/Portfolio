@@ -1,5 +1,5 @@
 ---
-title: Data Analytic Tools for Business Decision Making
+Course: Data Analytic Tools for Business Decision Making
 ---
 
 
@@ -16,7 +16,7 @@ The overall objective of this class is to provide students with practical experi
 All are critical skills for a Data Scientist. Although databases are typically managed by a Database Administrator, a Data Scientist will be intimately involved with the database and therefore, should be comfortable around them. 
 
 ### Short video on Getting Started with MySQL
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e1LPfehYSgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- https://www.youtube.com/embed/e1LPfehYSgg
 
 
 ### Steps to Create a SCHEMA/TABLE
